@@ -1,6 +1,13 @@
 # Explorer - Galaxies
 
-Este é um exemplo de uma página HTML simples que lista algumas das maiores galáxias conhecidas, juntamente com algumas informações sobre cada uma delas.
+![GitHub repo size](https://img.shields.io/github/repo-size/cesarDanielRodrigues/explorer-galaxies)
+![GitHub language count](https://img.shields.io/github/languages/count/cesarDanielRodrigues/explorer-galaxies)
+
+![Demonstração da página](gif_github/paginaDemonstracao.gif)
+
+> Este é um exemplo de uma página HTML simples que lista algumas das maiores galáxias conhecidas, juntamente com algumas informações sobre cada uma delas.
+
+
 
 ## Estrutura do HTML
 
